@@ -1,1 +1,1 @@
-# primo-stars
+# Built with [primo](https://primo.af)
